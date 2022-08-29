@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApI", "Pokemon\WebApI.csproj", "{8C6E36CF-0DCA-4224-992B-4125B2862015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "ClassLibrary1\Data.csproj", "{D5A726FD-3419-477D-BEFD-8C7CEE8F2BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6E36CF-0DCA-4224-992B-4125B2862015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6E36CF-0DCA-4224-992B-4125B2862015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6E36CF-0DCA-4224-992B-4125B2862015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6E36CF-0DCA-4224-992B-4125B2862015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A726FD-3419-477D-BEFD-8C7CEE8F2BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A726FD-3419-477D-BEFD-8C7CEE8F2BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A726FD-3419-477D-BEFD-8C7CEE8F2BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A726FD-3419-477D-BEFD-8C7CEE8F2BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD093CDF-4008-4DCF-991F-049D65034EFE}
+	EndGlobalSection
+EndGlobal
